@@ -1,0 +1,15 @@
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csprojAssemblyReference.cache
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+D:\Demo Projects\Github\ToDoAppDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
