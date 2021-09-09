@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ToDoClientApp.Models
 {
-    public class Signup
+    public class ClientSignup
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
