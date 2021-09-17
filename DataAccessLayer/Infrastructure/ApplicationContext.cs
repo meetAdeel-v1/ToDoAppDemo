@@ -16,5 +16,6 @@ namespace DataAccessLayer.Infrastructure
 
         }
         public DbSet<ToDoList> ToDoLists { get; set; }
+        public DbSet<ToDoItems> ToDoItems { get; set; }
     }
 }
